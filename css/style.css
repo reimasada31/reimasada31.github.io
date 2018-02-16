@@ -160,8 +160,6 @@ section h2
 
 #skills i
 {
-    font-size: 4.5rem;
-
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
             box-sizing: border-box;
@@ -179,6 +177,18 @@ section h2
             border-radius: 50%;
             
     background-color: #0000ff;
+}
+
+#HTML i,
+#Seo i
+{
+    font-size: 4.5rem;
+}
+
+#Design i
+{
+    font-size: 4rem;
+    padding-top: 20px;
 }
 
 #skills h3
